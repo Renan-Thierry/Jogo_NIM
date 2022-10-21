@@ -1,0 +1,15 @@
+Alunos : Rennan Thierry Andrade De Oliveira
+       : Vinicius Roque Ferreira da Silva
+       : Alan Aparecido Rocha da Silva
+
+
+-------------- Sobre o Jogo --------------
+
+O jogo é jogado em duplas, mas pode ser também dividido em equipes. As jogadas são feitas alternadamente, e cada jogador (ou grupo) deve retirar uma quantidade de numeros, dentre um total que varia de acordo com o combinado entre os jogadores. O perdedor é aquele que retirar o último numero da partida.
+
+--------------    Regras    --------------
+
+= No inicio do jogo deverá ser escolhido o a quantidade maxima a ser tirada por cada jogador
+= os jogadores deverão tirar par ou impar para decidir quem irá começar o jogo
+= Cada jogador tera sua vez de jogar e deverá escolher um numero para ser tirado e so sera permitido ate a quantidade maxima escolhida
+
